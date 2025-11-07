@@ -1,0 +1,20 @@
+结构语句
+initial在模块中只执行一次次
+always语句在不断的重复活动
+
+
+赋值语句
+阻塞赋值 b=a  即时赋值
+非阻塞赋值 b<=al 赋值结束时赋值
+
+
+条件语句
+if else
+
+case
+endcase
+未列出的可能使用default
+
+casez不考虑高组态
+casex不考虑高组态和不定值x
+
